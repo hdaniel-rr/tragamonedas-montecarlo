@@ -137,5 +137,3 @@ MIT License
 
 Daniel Ramírez
 Física · Análisis de datos · Desarrollador de Software
-
-```
