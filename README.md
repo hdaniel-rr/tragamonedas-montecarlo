@@ -74,6 +74,8 @@ Instalación de dependencias:
 
 ```bash
 pip install numpy matplotlib
+```
+
 ¡De una! Aquí tienes **la descripción corta del proyecto** y un **README completo para GitHub**, pensados para que se vean claros, técnicos y atractivos 👌
 Puedes copiar/pegar tal cual y ajustar nombres si quieres.
 
